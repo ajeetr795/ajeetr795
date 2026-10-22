@@ -19,4 +19,4 @@ Python (NumPy, pandas, scikit-learn) · SQL · R · simulation (Simio) · Tablea
 
 Amazon Area Manager intern (2026) · founder of PlumbConnect
 
-[LinkedIn](https://www.linkedin.com/in/LINKEDIN) · ajbrao13@gmail.com
+ajbrao13@gmail.com
