@@ -1,6 +1,6 @@
 ### Hi, I'm Ajeet
 
-Industrial & Systems Engineering at **Georgia Tech** (Analytics & Data Science, CS minor), graduating **May 2027**. I build models for decisions under uncertainty: simulation, dynamic programming and optimisation, mostly applied to motorsport and sport.
+Industrial & Systems Engineering at **Georgia Tech** (Analytics & Data Science), graduating **May 2027**. I build models for decisions under uncertainty: simulation, dynamic programming and optimisation, mostly applied to motorsport and sport.
 
 Looking for full-time roles from summer 2027 in **race strategy, sports analytics, and operations research**. US citizen, open to relocating anywhere, working German.
 
